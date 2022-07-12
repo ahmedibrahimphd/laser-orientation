@@ -15,4 +15,4 @@ sci_data_pipe <- read_csv("data/sci-online-classes.csv") |> # read in data
 add_numbers <- function(number_1, number_2) { number_1 + number_2}
 add_numbers(3, 8)
 View(sci_data)
-install_course_zip("Users/ahmedibrahimphd/Dropbox/DOCUMENTS/00-RESOURCES--ANALYSIS--STATS/R/R SWIRL/14_310x_Intro_to_R.zip”,multi=FALSE)
+install_course_zip("ahmedibrahimphd/Dropbox/DOCUMENTS/00-RESOURCES--ANALYSIS--STATS/R/R SWIRL/14_310x_Intro_to_R.zip",multi=FALSE)
